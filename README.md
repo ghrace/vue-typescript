@@ -1,4 +1,4 @@
-# vuets
+# vue-typescript
 
 ## Project setup
 ```
